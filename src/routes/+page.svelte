@@ -2,18 +2,14 @@
 	import DiscordWidget from "$lib/DiscordWidget.svelte";
 
 	    // Import images
-	import art from '$lib/images/art.png';
-    import title from '$lib/images/title.png';
-    import tiktok from '$lib/images/tiktok.svg';
-    import discord from '$lib/images/discord.svg';
+
     import statement from '$lib/images/statement.png';
     import planet from '$lib/images/planet.png';
     import waffenauswahl from '$lib/images/waffenauswahl.png';
     import celina from '$lib/images/celina.png';
     import pilot from '$lib/images/pilot.png';
     import pilot_dialog from '$lib/images/pilot_dialog.png';
-    import shooting from '$lib/images/shooting.png';
-    import w from '$lib/images/w.png';
+    import shooting from '$lib/images/shooting.png';    
 	import Header from "$lib/Header.svelte";
 </script>
 
