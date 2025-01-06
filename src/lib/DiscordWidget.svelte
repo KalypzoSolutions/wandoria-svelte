@@ -1,0 +1,1 @@
+<iframe title="discord embed" src="https://discordapp.com/widget?id=1324119249584783360&theme=dark" class="mx-auto" width="350" height="500" allowtransparency={true} frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
