@@ -11,7 +11,7 @@
 <div>
 	<div class="min-h-screen">
 		<Header />
-		<div class="container mx-auto mb-32 mt-16 gap-8 flex flex-col md:flex-row ">
+		<div class="container mx-auto mb-32 mt-16 gap-8 flex flex-col md:flex-row " id="a">
 			<div class="prose prose-invert max-w-none rounded-lg bg-zinc-900 p-4 lg:px-8">
 				<!-- Regeln -->
 				<h1>Regeln</h1>
@@ -78,19 +78,19 @@
 					<h3>Inhalt</h3>
 					<ol>
 						<li>
-							<a href="#allgemeine-regeln">Allgemeine Regeln</a>
+							<a href="#a">Allgemeine Regeln</a>
 						</li>
 						<li>
-							<a href="#chat-und-kommunikationsregeln">Chat- und Kommunikationsregeln</a>
+							<a href="#a">Chat- und Kommunikationsregeln</a>
 						</li>
 						<li>
-							<a href="#minecraft-regeln">Minecraft Regeln</a>
+							<a href="#a">Minecraft Regeln</a>
 						</li>
 						<li>
-							<a href="#moderation">Moderation</a>
+							<a href="#a">Moderation</a>
 						</li>
 						<li>
-							<a href="#strafen">Strafen</a>
+							<a href="#a">Strafen</a>
 						</li>
 					</ol>
 

@@ -66,7 +66,7 @@
                             <li>Wähle verschiedene Template-Welten</li>
                             <li>Erweitere den Baubereich bis in das unendliche!</li>
                             <li>Vertraue deinen Freunden</li>
-                            <li>Bereite dich auf <a href="#missionen" class="text-emerald-300">Missionen</a> vor</li>
+                            <li>Bereite dich auf <span class="text-emerald-300">Missionen</span> vor</li>
                         </ul>
                     </div>
                     <div class="">
