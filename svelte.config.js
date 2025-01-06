@@ -14,10 +14,7 @@ const config = {
 		adapter: adapter({			
 			fallback: undefined,
 			precompress: true			
-		}),
-		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
-		}
+		}),		
 	}
 };
 
