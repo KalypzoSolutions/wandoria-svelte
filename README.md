@@ -2,9 +2,15 @@
 Hierbei handelt es sich um die Implementierung der Website mithilfe von Svelte-Kit. Github Actions laden es automatisch auf github pages hoch. 
 Die Syntax ist identisch mit purem HTML (Kein JSX / TSX). Der Compiler ermöglicht desweiteren mehr Javascript (sofern benötigt)
 
-## Developing 
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Entwicklung starten
+
+1. Installiere [Bun.js](https://bun.sh/) mit `powershell -c "irm bun.sh/install.ps1 | iex"` (nur für Windows)
+
+2. Öffne das Projekt 
+
+3. Installiere die Dependencies mit `bun i`
 
 ```bash
 bun run dev
