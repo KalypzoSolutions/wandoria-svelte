@@ -3,9 +3,6 @@
 	import DiscordWidget from '$lib/DiscordWidget.svelte';
 	import Header from '$lib/Header.svelte';
 </script>
-<style :global>
-
-</style>
 <svelte:head>
 	<title>Regeln auf {serverName}</title>
 	<meta name="description" content="About this app" />
