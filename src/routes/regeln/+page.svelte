@@ -3,11 +3,8 @@
 	import DiscordWidget from '$lib/DiscordWidget.svelte';
 	import Header from '$lib/Header.svelte';
 </script>
-<style>
-.smouthscroll{
-  --scroll-behavior: smooth!important;
-	scroll-behavior: smooth!important;
-}
+<style :global>
+
 </style>
 <svelte:head>
 	<title>Regeln auf {serverName}</title>
