@@ -46,7 +46,7 @@
             
         </div>
         <div class="text-center py-2">
-            <p class="text-xs text-zinc-500">Unter der Leitung von AERNHARD, vertreten durch EinJOJO und CrayonGamer</p>
+            <p class="text-xs text-zinc-500">Unter der Leitung von AERNHARD, vertreten durch EinJOJO und CrayonGamerHD</p>
             <p class="text-xs text-zinc-500">Website erstellt von <a class="text-zinc-300" href="https://einjojo.it">einjojo</a></p>
         </div>
     </div>    
