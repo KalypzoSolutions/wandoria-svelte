@@ -9,7 +9,8 @@
     import celina from '$lib/images/celina.png';
     import pilot from '$lib/images/pilot.png';
     import pilot_dialog from '$lib/images/pilot_dialog.png';
-    import shooting from '$lib/images/shooting.png';    
+    import shooting from '$lib/images/shooting.png'; 
+    import schuss from '$lib/images/schuss.webp';   
 	import Header from "$lib/Header.svelte";
 </script>
 
@@ -99,7 +100,7 @@
 
                     </div>
                     <div class="">
-                        <img src={shooting} alt="Minecraft scifi guns inside a realm server" class="aspect-video rounded-lg">
+                        <img src={schuss} alt="Minecraft scifi guns inside a realm server" class="aspect-video rounded-lg">
                         <small class="text-zinc-400">Symbolbild für Missionen</small>
                     </div>
                 </div>
