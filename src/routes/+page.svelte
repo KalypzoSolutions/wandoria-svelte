@@ -15,7 +15,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Erlebe epische Abenteuer auf Wandoria.net! Unser Minecraft Realms Server startet seine Beta-Testphase am 14.02. Tauche ein in eine einzigartige Welt voller Herausforderungen, Kreativität und Community. Werde Teil des Abenteuers und gestalte Wandoria mit!" />
 </svelte:head>
 
 

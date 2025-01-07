@@ -5,7 +5,7 @@
 </script>
 <svelte:head>
 	<title>Regeln auf {serverName}</title>
-	<meta name="description" content="About this app" />
+	<meta name="description" content="Erfahre die Regeln von Wandoria.net! Unsere klaren und fairen Richtlinien sorgen für ein harmonisches Spielerlebnis auf unserem Minecraft Realm Server. Lies bitte die Regeln, respektiere die Community und werde Teil des Abenteuers." />
 </svelte:head>
 <div class="smouthscroll">
 	<div class="min-h-screen">
