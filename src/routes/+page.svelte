@@ -9,7 +9,6 @@
     import celina from '$lib/images/celina.png';
     import pilot from '$lib/images/pilot.png';
     import pilot_dialog from '$lib/images/pilot_dialog.png';
-    import shooting from '$lib/images/shooting.png'; 
     import schuss from '$lib/images/schuss.webp';   
 	import Header from "$lib/Header.svelte";
 </script>
