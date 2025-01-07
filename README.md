@@ -1,3 +1,5 @@
+[![Wandoria.net Website](https://github.com/KalypzoSolutions/wandoria-svelte/actions/workflows/deploy.yml/badge.svg)](https://github.com/KalypzoSolutions/wandoria-svelte/actions/workflows/deploy.yml)
+
 # Wandoria-Svelte
 Hierbei handelt es sich um die Implementierung der Website mithilfe von Svelte-Kit. 
 
