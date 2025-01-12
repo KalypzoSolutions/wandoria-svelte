@@ -29,6 +29,8 @@
 		"vite": "^5.4.11"
 	},
 	"dependencies": {
-		"@tailwindcss/typography": "^0.5.15"
+		"@tailwindcss/typography": "^0.5.15",
+		"@tebexio/tebex.js": "^1.5.0",
+		"tebex_headless": "^1.15.0"
 	}
 }
