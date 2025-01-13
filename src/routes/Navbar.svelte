@@ -82,7 +82,7 @@
 
 			<!-- Links -->
 			<ul
-				class="flex flex-col space-y-8 font-medium md:flex-row md:space-x-8 md:space-y-0 rtl:space-x-reverse"
+				class="flex flex-col items-center space-y-8 font-medium md:flex-row md:space-x-8 md:space-y-0 rtl:space-x-reverse"
 				aria-label="Primary navigation"
 			>
 				<!-- Logo -->
