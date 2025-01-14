@@ -11,11 +11,17 @@ Die Syntax ist identisch mit purem HTML (Kein JSX / TSX).
 
 ## Entwicklung starten
 
-1. Installiere [Bun.js](https://bun.sh/) mit `powershell -c "irm bun.sh/install.ps1 | iex"` (Befehl für Windows)
+1. Installiere [Bun.js](https://bun.sh/) mit 
+```bash
+powershell -c "irm bun.sh/install.ps1 | iex"
+```
 
-2. Öffne das Projekt  in Visual Studo Code
+2. Öffne das Projekt in Visual Studo Code
 
-3. Installiere die Dependencies mit `bun i`
+3. Installiere die Dependencies mit 
+```bash
+bun i
+```
 
 
 ```bash
