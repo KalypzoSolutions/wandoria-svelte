@@ -1,8 +1,9 @@
 <script lang="ts">
     import w from '$lib/images/w.webp';
-	
+    
 	import '../app.css';
 	import Navbar from './Navbar.svelte';
+	import { onMount } from 'svelte';
 
 	let { children } = $props();
 
@@ -10,6 +11,8 @@
 	function toggleNavbar() {
         navbar = !navbar;
     }
+
+    
 </script>
 
 <div class="dark:bg-[#010A07]">
