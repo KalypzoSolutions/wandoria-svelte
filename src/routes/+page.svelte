@@ -3,13 +3,13 @@
 
 	    // Import images
 
-    import statement from '$lib/images/statement.png';
-    import planet from '$lib/images/planet.png';
-    import waffenauswahl from '$lib/images/waffenauswahl.png';
-    import celina from '$lib/images/celina.png';
-    import pilot from '$lib/images/pilot.png';
-    import pilot_dialog from '$lib/images/pilot_dialog.png';
-    import schuss from '$lib/images/schuss.webp';   
+    import statement from '$lib/images/statement.avif';
+    import planet from '$lib/images/planet.avif';
+    import waffenauswahl from '$lib/images/waffenauswahl.avif';
+    import celina from '$lib/images/celina.avif';
+    import pilot from '$lib/images/pilot.avif';
+    import pilot_dialog from '$lib/images/pilot_dialog.avif';
+    import schuss from '$lib/images/schuss.avif';   
 	import Header from "$lib/Header.svelte";
 </script>
 

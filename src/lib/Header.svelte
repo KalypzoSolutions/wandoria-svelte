@@ -1,6 +1,6 @@
 <script>
-    import art from '$lib/images/art.png';
-    import title from '$lib/images/title.png';
+    import art from '$lib/images/art.avif';
+    import title from '$lib/images/title.webp';
     import tiktok from '$lib/images/tiktok.svg';
     import discord from '$lib/images/discord.svg';        
 </script>

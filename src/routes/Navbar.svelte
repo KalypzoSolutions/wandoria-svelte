@@ -1,5 +1,5 @@
 <script lang="ts">
-	import w from '$lib/images/w.png';
+	import w from '$lib/images/w.webp';
 	import '../app.css';
 
 	let navbar = false;
