@@ -15,6 +15,9 @@ const config = {
 			fallback: undefined,
 			precompress: true			
 		}),		
+		paths: {
+			relative: false
+		}
 	}
 };
 

@@ -29,6 +29,8 @@
 		"vite": "^5.4.11"
 	},
 	"dependencies": {
-		"@tailwindcss/typography": "^0.5.15"
+		"@hotjar/browser": "^1.0.9",
+		"@tailwindcss/typography": "^0.5.15",
+		"highlight.run": "^9.7.3"
 	}
 }
