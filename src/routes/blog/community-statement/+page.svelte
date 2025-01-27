@@ -25,11 +25,12 @@
 </h1>
 
 <p>
-    Liebe Spielerinnen und Spieler, Es bedeutet uns wirklich viel, dass ihr hier seid – trotz Feli’s
+    Liebe Spielerinnen und Spieler, <br/>
+    es bedeutet uns wirklich viel, dass ihr hier seid – trotz Feli’s
     Aufruf, uns keine Aufmerksamkeit zu schenken. Wir, NeinNichtDoch, CrayonGamerHD und ich, die
     ehemaligen Hauptentwickler von Wandoria, möchten euch einen möglichst transparenten Einblick in
-    die Geschehnisse geben, um Missverständnisse auszuräumen und unsere Perspektive darzulegen. Denn
-    eines vorweg: Die Welt ist selten einfach in Gut und Böse zu unterteilen.
+    die Geschehnisse geben, um Missverständnisse auszuräumen und unsere Perspektive darzulegen.  <br/>
+    Denn eines vorweg: Die Welt ist selten einfach in Gut und Böse zu unterteilen.
 </p>
 <h3 id="wieso-wir-hier-sind">
     Wieso wir hier sind<a
@@ -81,11 +82,11 @@
     Dennoch müssen wir Feli andere Fähigkeiten zugestehen. Er ist kreativ, ein Marketing-Ass und
     schafft es hervorragend die User an sich zu binden. Er war stets offen für Gespräche, jedoch
     hatten wir nach all dem Leid nicht die Bereitschaft etwas zu ändern, weil wir den Eindruck
-    hatten, dass wir mit Feli nie ans Ziel gelangen würden.
+    hatten, dass wir mit Feli nie ans Ziel gelangen würden. <br/>
     <strong
-        >Die Wandoria-Entwicklung, wirkte auf uns, all die Monate nach der Beta bis zu unseren
-        Verlassen im September eingefroren.</strong
-    > Was im Hintergrund geschah wissen wir selber nicht. Wahrscheinlich wenig.
+        >Die Wandoria-Entwicklung, wirkte auf uns, all die Monate nach der Beta von Februar bis zu unseren
+        Verlassen des Teams im September eingefroren.</strong
+    > Was im Hintergrund all die Zeit womöglich geschah wissen wir nicht. Wir vermuten, dass wenig passiert ist, da der Fokus auf Akani lag.
 </p>
 <h3 id="warum-der-zweite-ehemalige-inhaber-hier-ist">
     Warum der zweite ehemalige Inhaber hier ist:<a
@@ -110,9 +111,9 @@
     >
 </h3>
 <p>
-    Manche haben bestimmt @Aernhard in der Seitenleiste beobachten können. Hierbei handelte es sich
-    um die finanzielle Säule von Wandoria. Er hat die Zahlungen getätigt für die Feli kein Geld
-    hatte, also haben wir unser Geld von Aernhard bezogen. Feli hat sämtliche Einnahmen
+    Manche haben bestimmt Aernhard in der Seitenleiste beobachten können. Hierbei handelte es sich
+    um die <b>finanzielle Säule</b> von Wandoria. Er hat die Zahlungen getätigt für die Feli kein Geld
+    hatte. Wir Entwickler haben unser Geld oft von Aernhard bezogen. Feli hat sämtliche Einnahmen
     reinvestiert, was in unseren Augen was auch gut und richtig ist.
 </p>
 <p>
