@@ -55,7 +55,7 @@
 
 	<!-- Links -->
 	<div
-		class={`fixed inset-y-0 right-0 z-30 w-full max-w-[20rem] transform bg-zinc-900 ${navbar ? 'translate-x-0' : 'translate-x-[20rem]'} transition-transform duration-300 md:relative md:h-auto md:w-auto md:translate-x-0 md:bg-transparent`}
+		class={`fixed inset-y-0 right-0 z-30 w-full max-w-[20rem] md:max-w-none transform bg-zinc-900 ${navbar ? 'translate-x-0' : 'translate-x-[20rem]'} transition-transform duration-300 md:relative md:h-auto md:w-auto md:translate-x-0 md:bg-transparent`}
 		id="navbar-default"
 	>
 		<!-- Sidebar Container -->
@@ -126,6 +126,15 @@
 					>
 						Discord
 					</a>
+				</li>
+				<li class="">
+					<a 
+					onclick={toggleNavbar}
+					class="text-zinc-200 hover:text-zinc-400"
+					aria-label="Read about the past issues"
+					href="/blog/community-statement">						
+						Statement <span class="bg-orange-300 text-orange-950 px-2 rounded-lg">Neu</span>
+					</a>				
 				</li>
 
 				<!-- Wandoria.net Button -->
