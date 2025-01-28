@@ -1,10 +1,4 @@
-<script lang="ts">
-	import DiscordWidget from "$lib/DiscordWidget.svelte";
-
-	    // Import images
-
-    import statement from '$lib/images/statement.avif';
-    import statement_thumb  from '$lib/images/planet.avif';
+<script lang="ts">	   
     import planet from '$lib/images/planet.avif';
     import waffenauswahl from '$lib/images/waffenauswahl.avif';
     import celina from '$lib/images/celina.avif';
@@ -12,6 +6,7 @@
     import pilot_dialog from '$lib/images/pilot_dialog.avif';
     import schuss from '$lib/images/schuss.avif';   
 	import Header from "$lib/Header.svelte";
+	import News from "./News.svelte";
 </script>
 
 <svelte:head>
@@ -23,32 +18,8 @@
 <section>
     <div class="min-h-screen">
         <Header />
-        <section class="mb-32 mt-16 container mx-auto  ">
-            <div class="prose dark:prose-invert">
-                <h1>Was passiert hier?</h1>
-            </div>
-            <div class="flex flex-col lg:flex-row">
-                <div class="rounded-lg  w-full p-4 ">                
-                    <div class="border border-gray-800">
-                        <img src={statement_thumb} alt="statement" class="rounded-lg aspect-video">
-                        <h2 class="mt-0">Statement zur aktuellen Lage</h2>
-                        <p>Veröffentlicht am 27.01.2025</p>
-                    </div>
-                </div>
-                <div class="flex flex-col min-w-96 flex-1">
-                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
-                        <h2>Warum </h2>
-                    </div>
-                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
-                        <h2>Warum </h2>
-                    </div>
-                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
-                        <h2>Warum </h2>
-                    </div>
-                </div>
-            </div>
-            
-        </section>
+        <News />
+        
         <div class="container mx-auto" id="content">
             <div class="text-center py-8">
                 <h1 class="font-bold text-zinc-200 text-xl ">Das soll das (NEUE) Wandoria bieten</h1>
