@@ -1,3 +1,7 @@
+<script lang="ts">
+    import spaltung from '$lib/images/spaltung.avif';
+</script>
+<img src={spaltung} alt="thumbnail of wandoria old going down and new wandoria rising" class="rounded-lg" />
 <small>
     Geschrieben am 04.01.2025 | 3 Minuten | Veröffentlicht am 27.01.2025
 </small>
