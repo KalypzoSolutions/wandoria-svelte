@@ -4,6 +4,7 @@
 	    // Import images
 
     import statement from '$lib/images/statement.avif';
+    import statement_thumb  from '$lib/images/planet.avif';
     import planet from '$lib/images/planet.avif';
     import waffenauswahl from '$lib/images/waffenauswahl.avif';
     import celina from '$lib/images/celina.avif';
@@ -22,32 +23,32 @@
 <section>
     <div class="min-h-screen">
         <Header />
-        <div class="mb-32 mt-16 container mx-auto gap-8 flex flex-col lg:flex-row">
-            <div class="bg-zinc-900 rounded-lg prose dark:prose-invert dark:max-w-none w-full p-4">
-                <div class="">
-                    <h3 class="">Wichtige Info | Abgrenzung von Feli</h3>
-					<img src={statement} alt="feli statement" class="">                
-                <div class="max-w-screen-md">
-                    <p>Wie alle es gemerkt haben: Durch Unstimmigkeiten zwischen den Inhabern kam es zur Spaltung des Teams und die Entwicklung geriet ins stocken.</p>
-                    <p class="">
-                        Dieses Projekt ist <b>nicht mehr</b> mit Feli (FeliMC) in jeglicher Hinsicht verbunden.
-                        Das Projekt wird von den <b>ehemaligen Hauptentwicklern</b> des Wandoria-Servers fortgeführt. <br/>                    
-                        Definitiv ist das keine nette Geste, Feli, der so viel Energie in das Projekt reingesteckt hat, in den Rücken zu fallen, aber wie heißt es so schön, <b>Konkurrenz belebt das Geschäft.</b><br>
-                        Fortan wird das Projekt unter dem Namen <b>Wandoria</b> fortgeführt. <br>                    
-                    </p>
-                    
-                    <h4>Wir hoffen auf eure Untersützung!</h4>
-                    <div class="py-4">
-                        <a href="https://dc.wandoria.net" class="px-4 py-2 bg-emerald-400 text-black font-semibold rounded-lg no-underline">Komm auf unseren Discord</a>
-                        <small class="block text-xs py-4">Kein Spam, keine falschen Versprechen, Live Development Updates</small>
+        <section class="mb-32 mt-16 container mx-auto  ">
+            <div class="prose dark:prose-invert">
+                <h1>Was passiert hier?</h1>
+            </div>
+            <div class="flex flex-col lg:flex-row">
+                <div class="rounded-lg  w-full p-4 ">                
+                    <div class="border border-gray-800">
+                        <img src={statement_thumb} alt="statement" class="rounded-lg aspect-video">
+                        <h2 class="mt-0">Statement zur aktuellen Lage</h2>
+                        <p>Veröffentlicht am 27.01.2025</p>
                     </div>
                 </div>
+                <div class="flex flex-col min-w-96 flex-1">
+                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
+                        <h2>Warum </h2>
+                    </div>
+                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
+                        <h2>Warum </h2>
+                    </div>
+                    <div class="bg-zinc-900 border border-zinc-800 p-2 prose prose-invert">
+                        <h2>Warum </h2>
+                    </div>
                 </div>
             </div>
-            <div class="col-span-1 ">
-                <DiscordWidget />
-            </div>
-        </div>
+            
+        </section>
         <div class="container mx-auto" id="content">
             <div class="text-center py-8">
                 <h1 class="font-bold text-zinc-200 text-xl ">Das soll das (NEUE) Wandoria bieten</h1>
