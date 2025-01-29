@@ -3,7 +3,7 @@
 </script>
 <img src={spaltung} alt="thumbnail of wandoria old going down and new wandoria rising" class="rounded-lg" />
 <small>
-    Geschrieben am 04.01.2025 | 3 Minuten | Veröffentlicht am 27.01.2025
+    3 Minuten | Veröffentlicht am 27.01.2025 | Zuletzt bearbeitet am 29.01.2025
 </small>
 <h1 id="statement-an-die-community">
     Statement an die Community<a
@@ -90,7 +90,11 @@
     <strong
         >Die Wandoria-Entwicklung, wirkte auf uns, all die Monate nach der Beta von Februar bis zu unseren
         Verlassen des Teams im September eingefroren.</strong
-    > Was im Hintergrund all die Zeit womöglich geschah wissen wir nicht. Wir vermuten, dass wenig passiert ist, da der Fokus auf Akani lag.
+    >  <s>Was im Hintergrund all die Zeit womöglich geschah wissen wir nicht. Wir vermuten, dass wenig passiert ist, da der Fokus auf Akani lag.</s>*
+
+</p>
+<p>*Feli betonte im Nachhinein, dass parallel zur Akani Entwicklung die custom Mobs im Hintergrund für Wandoria modelliert und programmiert wurden. 
+    Der Bau der neuen Lobby lief fortlaufend weiter. Nur hat er existierende Developer nicht genutzt und sie verweilten ohne Aufgabe und Statusupdates auf dem Discord.
 </p>
 <h3 id="warum-der-zweite-ehemalige-inhaber-hier-ist">
     Warum der zweite ehemalige Inhaber hier ist:<a
@@ -121,11 +125,12 @@
     reinvestiert, was in unseren Augen was auch gut und richtig ist.
 </p>
 <p>
-    Was aber nicht ok ist, wenn man monatelang den Server ruhen lässt, aber Aernhard 120€/Monat
-    Serverkosten zahlen muss und auf dem Server ein zweites Projekt (Akani) entwickelt wird, an dem
-    Aernhard 0.0% beteiligt ist. Dies führte dazu, dass Aernhard sich aus Wandoria zurück gezogen
-    hat.
-</p>
+    Kritisch blickt man heute auf den langen Stillstand der Wandoria-Entwicklung, wo Aernhard 120€/Monat
+    Serverkosten für einen Server zahlt, auf dem ein zweites Projekt (Akani) entwickelt wird, an dem
+    Aernhard 0.0% beteiligt ist. 
+</p>    
+<p> Aernhard wurde nach 20 Tagen in Akani eingeweiht, und lies voerst laufen. Bis zu dem Zeitpunkt, wo seine Gedult ihr Ende fand.    
+    Dies führte dazu, dass Aernhard sich aus Wandoria zurück gezogen hat.</p>
 <h3 id="klarstellungen">
     Klarstellungen<a
         aria-hidden="true"
@@ -215,6 +220,16 @@
         <li>Ein Realm Template</li>
         <li>Die Vision</li>
     </ul>
+    </div>
+</div>
+<div class="flex gap-8 items-baseline">
+    <b>29.01.2024</b> 
+    <div class="">
+        <p>Fakten wurden zu diesen Text ergänzt:</p>
+        <ul>
+            <li>Aernhard wurde in Akani nach 20 Tagen eingeweiht</li>
+            <li>Parallel zur Akani Entwicklung geschieh durch Externe Mob Design und Entwicklung und der Ausbau der Lobby</li>
+        </ul>
     </div>
 </div>
 
